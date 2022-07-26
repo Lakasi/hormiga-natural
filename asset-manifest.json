@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hormiga-natural/static/css/main.8f6bf129.css",
+    "main.js": "/hormiga-natural/static/js/main.fc9ba76f.js",
+    "index.html": "/hormiga-natural/index.html",
+    "main.8f6bf129.css.map": "/hormiga-natural/static/css/main.8f6bf129.css.map",
+    "main.fc9ba76f.js.map": "/hormiga-natural/static/js/main.fc9ba76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6bf129.css",
+    "static/js/main.fc9ba76f.js"
+  ]
+}
